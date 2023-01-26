@@ -12,7 +12,7 @@
 
 - :zap: Хочу освоить новую проффесию и найти работу.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ainur_2307) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:aynurich23@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ainur_2307-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ainur_2307) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:aynurich23@gmail.com)
 
 ---
 
