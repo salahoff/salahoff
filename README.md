@@ -6,7 +6,7 @@
 
 - :telescope: Изучаю веб-разработку!
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ainur_2307-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/salahoff23) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:aynurich23@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-salahoff23-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/salahoff23) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:aynurich23@gmail.com)
 
 ---
 
